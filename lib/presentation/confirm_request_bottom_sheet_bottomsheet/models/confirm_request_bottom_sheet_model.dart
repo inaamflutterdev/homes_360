@@ -1,0 +1,3 @@
+import '../../../core/app_export.dart';import 'confirmrequestgrid_item_model.dart';class ConfirmRequestBottomSheetModel {List<ConfirmrequestgridItemModel> confirmrequestgridItemList = [ConfirmrequestgridItemModel(home:ImageConstant.imgHomePrimary,homeClosed: "Home Closed",twentyFive: "25"),ConfirmrequestgridItemModel(home:ImageConstant.imgMenu,homeClosed: "Experience",twentyFive: "5+ years"),ConfirmrequestgridItemModel(home:ImageConstant.imgUserPrimary,homeClosed: "Condos",twentyFive: "12+"),ConfirmrequestgridItemModel(home:ImageConstant.imgGridPrimary,homeClosed: "Apartment",twentyFive: "10+")];
+
+ }
